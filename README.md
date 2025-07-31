@@ -1,3 +1,7 @@
+This is a fork of `ckeditor-4-react` that let uses `window.CKEDITOR4` instead of `window.CKEDITOR`. We made this fork so that we can use CKEditor 4 and CKEditor 5 at the same time without their namespaces conflicting.
+
+---
+
 # CKEditor 4 WYSIWYG editor component for React [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Check%20out%20CKEditor%204%20React%20integration&url=https%3A%2F%2Fwww.npmjs.com%2Fpackage%2Fckeditor4-react)
 
 [![npm version](https://badge.fury.io/js/ckeditor4-react.svg)](https://www.npmjs.com/package/ckeditor4-react)
